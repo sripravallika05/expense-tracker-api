@@ -1,7 +1,7 @@
 💰 Expense Tracker API
 
 A RESTful backend API built using FastAPI for managing user authentication and tracking daily expenses.
-This project demonstrates backend development skills including API design, authentication, database handling, and deployment.
+This project demonstrates backend development skills including API design, authentication, database handling, and deployment
 
 🚀 Features
 
